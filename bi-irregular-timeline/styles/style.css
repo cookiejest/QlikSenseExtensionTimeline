@@ -1,0 +1,171 @@
+/* alternating column backgrounds */
+.vis-time-axis .vis-grid.vis-odd {
+  background: #ffffff;
+}
+
+/* overflow if content exceeds range
+   now switched by extension property
+.vis-item .vis-item-overflow {
+  overflow: visible;
+}
+*/
+  
+.vis-item.color-a {
+  background-color: #77DD77;
+  border-color: #77DD77;
+  color: white;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-b {
+  background-color: #FFB347;
+  border-color: #FFB347;
+  color: white;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-c {
+  background-color: #F59000;
+  border-color: #F59000;
+  color: white;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-d {
+  background-color: #F50014;
+  border-color: #F50014;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-e {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-f {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-g {
+  background-color: #666666;
+  border-color: #666666;
+  color: #666666;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 0px 0px 0px black;
+}
+
+.vis-item.color-h {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-i {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-j {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  box-shadow: 2px 2px 2px black;
+}
+
+.vis-item.color-bg-a {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-b {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-c {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-d {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-e {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-f {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-g {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-h {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-i {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
+
+.vis-item.color-bg-j {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  font-family: "QlikView Sans", sans-serif;
+  opacity: 0.5;
+}
